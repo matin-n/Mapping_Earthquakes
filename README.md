@@ -1,5 +1,7 @@
 # Mapping_Earthquakes
 
+[Click here to view the Earthquake Map!](https://matin-n.github.io/Mapping_Earthquakes/Earthquake_Challenge/index.html)
+
 ## Project Overview
 
 An interactive map is created to visualize live earthquake data in relation to tectonic plate locations.
