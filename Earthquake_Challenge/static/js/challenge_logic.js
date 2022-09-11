@@ -225,7 +225,7 @@ d3.json(
 
   // 3. Use d3.json to make a call to get our Tectonic Plate geoJSON data.
   d3.json(
-    "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
+    "https://raw.githubusercontent.com/matin-n/tectonicplates/master/GeoJSON/PB2002_boundaries.json"
   ).then((data) => {
     L.geoJson(data, {
       style: { color: "red", weight: 2 },
